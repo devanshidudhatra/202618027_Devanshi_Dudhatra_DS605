@@ -1,0 +1,15 @@
+learn scrappy, preprocess data, find insights
+
+for project:
+first do project modelling
+data acquisition
+modelling
+evaluation
+deployment - make api of model
+
+Data extraction:
+website given
+scarpe the website till 5 pages
+get all the books
+go inside those descriptions and all the details
+then add in some file like csv or json
