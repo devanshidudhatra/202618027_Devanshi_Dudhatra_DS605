@@ -87,6 +87,17 @@ plt.ylabel("Price (£)")
 plt.savefig("price_vs_rating.png")
 plt.show()
 
+plt.figure(figsize=(7,5))
+
+df.boxplot(column="price", by="rating")
+
+plt.title("Price Distribution by Rating")
+plt.suptitle("")        
+plt.xlabel("Rating")
+plt.ylabel("Price (£)")
+plt.savefig("Price Distribution by Rating")
+plt.show()
+
 # -------------------------------
 # Plot 5 : Category vs Stock
 # -------------------------------
@@ -167,3 +178,4 @@ print(
         ["title", "price", "rating", "value_score"]
     ].head(10)
 )
+
