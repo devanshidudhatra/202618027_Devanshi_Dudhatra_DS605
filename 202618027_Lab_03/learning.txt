@@ -1,0 +1,7 @@
+what is difference between standardization and normalization?
+- in house price prediction example
+- 
+
+what is knn imputer?
+
+what is difference between one hot encoder and simple encoder?
