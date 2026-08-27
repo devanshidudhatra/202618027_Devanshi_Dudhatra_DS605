@@ -1,0 +1,4 @@
+use loigtic regression
+use code convert to specific csv which is needed to be uploaded
+no 100% accuracy
+ipynb to classroom by 10:35
