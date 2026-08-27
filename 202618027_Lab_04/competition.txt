@@ -3,4 +3,9 @@ use code convert to specific csv which is needed to be uploaded
 no 100% accuracy
 ipynb to classroom by 10:35
 
-categorical to numerical using 
+categorical to numerical using encode 
+in imputing - use different imputing techniques for different columns some use median, mean, knnimputer
+to handle in balance - using smot, undersampling, oversampling
+in logistic regression - randomsearchcv or gridsearchcv
+remove outliers
+
