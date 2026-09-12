@@ -1,0 +1,8 @@
+do we need all the null values?
+random forest, xgboost handles null 
+
+competition
+- end to end ml
+- hyperparameter
+- optimization don't rely on libraries
+- api calling(request/something) - get post extract api
