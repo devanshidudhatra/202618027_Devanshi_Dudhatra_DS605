@@ -13,7 +13,8 @@ ENV/
 
 *.pkl
 *.joblib
-
+AB_NYC_2019.csv
+airbnb_test_predictions.csv
 
 # ============================================================
 # IDE / Editor
