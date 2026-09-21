@@ -64,5 +64,236 @@
    "fit_intercept": true
   },
   "loss": 27.2280190788684
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.00042813323987193956,
+   "l1_ratio": 0.95,
+   "positive": true,
+   "selection": "random",
+   "fit_intercept": true
+  },
+  "loss": 8.89044856527596
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.3071428571428571,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 8.8904744686513
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.05,
+   "positive": true,
+   "selection": "random",
+   "fit_intercept": true
+  },
+  "loss": 8.89048820477078
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.05,
+   "positive": true,
+   "selection": "random",
+   "fit_intercept": true
+  },
+  "loss": 8.89048841463209
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.8214285714285714,
+   "positive": true,
+   "selection": "random",
+   "fit_intercept": true
+  },
+  "loss": 8.89034663674245
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.05,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 8.89048762798667
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 100,
+   "l1_ratio": 0.05,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 27.2280190788684
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.8214285714285714,
+   "positive": false,
+   "selection": "random",
+   "fit_intercept": true
+  },
+  "loss": 9.50738135384019
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.95,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 8.89044481602611
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.95,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 8.89044405046088
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.6928571428571428,
+   "positive": true,
+   "selection": "random",
+   "fit_intercept": true
+  },
+  "loss": 8.89045792572167
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.0001,
+   "l1_ratio": 0.05,
+   "positive": false,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 9.50754142947356
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.0008858667904100822,
+   "l1_ratio": 0.43571428571428567,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 8.890920949198
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.0008858667904100822,
+   "l1_ratio": 0.05,
+   "positive": true,
+   "selection": "random",
+   "fit_intercept": true
+  },
+  "loss": 8.89108685754552
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.0008858667904100822,
+   "l1_ratio": 0.05,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 8.89108511840683
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.00042813323987193956,
+   "l1_ratio": 0.05,
+   "positive": true,
+   "selection": "random",
+   "fit_intercept": true
+  },
+  "loss": 8.89073521393303
+ },
+ {
+  "params": {
+   "tol": 0.0001,
+   "alpha": 0.00042813323987193956,
+   "l1_ratio": 0.95,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 8.89055182094343
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.00020691380811147902,
+   "l1_ratio": 0.43571428571428567,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 8.89052938474432
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.0008858667904100822,
+   "l1_ratio": 0.95,
+   "positive": true,
+   "selection": "random",
+   "fit_intercept": true
+  },
+  "loss": 8.89056042424538
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.0018329807108324356,
+   "l1_ratio": 0.95,
+   "positive": false,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 9.50337502188468
+ },
+ {
+  "params": {
+   "tol": 0.001,
+   "alpha": 0.00042813323987193956,
+   "l1_ratio": 0.95,
+   "positive": true,
+   "selection": "cyclic",
+   "fit_intercept": true
+  },
+  "loss": 8.89055182094343
  }
 ]
